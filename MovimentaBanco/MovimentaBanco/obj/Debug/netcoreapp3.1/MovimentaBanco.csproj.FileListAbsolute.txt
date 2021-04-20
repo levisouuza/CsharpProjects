@@ -1,0 +1,13 @@
+C:\workspace\MovimentaBanco\MovimentaBanco\bin\Debug\netcoreapp3.1\MovimentaBanco.exe
+C:\workspace\MovimentaBanco\MovimentaBanco\bin\Debug\netcoreapp3.1\MovimentaBanco.deps.json
+C:\workspace\MovimentaBanco\MovimentaBanco\bin\Debug\netcoreapp3.1\MovimentaBanco.runtimeconfig.json
+C:\workspace\MovimentaBanco\MovimentaBanco\bin\Debug\netcoreapp3.1\MovimentaBanco.runtimeconfig.dev.json
+C:\workspace\MovimentaBanco\MovimentaBanco\bin\Debug\netcoreapp3.1\MovimentaBanco.dll
+C:\workspace\MovimentaBanco\MovimentaBanco\bin\Debug\netcoreapp3.1\MovimentaBanco.pdb
+C:\workspace\MovimentaBanco\MovimentaBanco\obj\Debug\netcoreapp3.1\MovimentaBanco.csprojAssemblyReference.cache
+C:\workspace\MovimentaBanco\MovimentaBanco\obj\Debug\netcoreapp3.1\MovimentaBanco.AssemblyInfoInputs.cache
+C:\workspace\MovimentaBanco\MovimentaBanco\obj\Debug\netcoreapp3.1\MovimentaBanco.AssemblyInfo.cs
+C:\workspace\MovimentaBanco\MovimentaBanco\obj\Debug\netcoreapp3.1\MovimentaBanco.csproj.CoreCompileInputs.cache
+C:\workspace\MovimentaBanco\MovimentaBanco\obj\Debug\netcoreapp3.1\MovimentaBanco.dll
+C:\workspace\MovimentaBanco\MovimentaBanco\obj\Debug\netcoreapp3.1\MovimentaBanco.pdb
+C:\workspace\MovimentaBanco\MovimentaBanco\obj\Debug\netcoreapp3.1\MovimentaBanco.genruntimeconfig.cache
